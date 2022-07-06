@@ -5,4 +5,5 @@
 也欢迎大家访问Heycの小窝主页：<https://hyc1230.github.io>
 
 ---
-The End
+
+$The\space End$
